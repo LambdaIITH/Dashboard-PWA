@@ -2184,6 +2184,7 @@ THE SOFTWARE.
 --------------------------------------------------------------------------------
 args
 csslib
+logging
 
 Copyright 2013, the Dart project authors. 
 
@@ -5428,6 +5429,7 @@ file_selector_platform_interface
 file_selector_windows
 flutter_lints
 flutter_plugin_android_lifecycle
+go_router
 google_identity_services_web
 google_sign_in
 google_sign_in_android
@@ -35249,7 +35251,10 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 sqflite
+sqflite_android
 sqflite_common
+sqflite_darwin
+sqflite_platform_interface
 
 BSD 2-Clause License
 
