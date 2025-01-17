@@ -1,2 +1,2 @@
-BACKEND_URL="https://api.iith.dev"
-# BACKEND_URL="http://localhost:8000"
+BASE_URL="https://api.iith.dev"
+VAPID_KEY=BKYpNSs388wQc-zyeCmD9jEte_BgTtS9sJHA-dXCue6Tij935hiVUKRdsB5N3lneQGa7sj6y8lGnK55NEXgFZts 
